@@ -1,6 +1,8 @@
-# Hi, I'm Lakshya 👋
+# Hi, I'm Lakshya Agarwal 👋
 
-I work on **machine learning and data science** — building classification models, analysing real-world data, and turning results into clear insights.
+🎓 2nd-year **B.Tech Computer Science & Engineering** student at **Shiv Nadar University**, Greater Noida
+
+I'm interested in **machine learning and data science**: building classification models, analysing real-world data, and turning results into clear insights.
 
 ### 🔭 Featured projects
 
