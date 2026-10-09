@@ -8,6 +8,7 @@ I'm interested in **machine learning and data science**: building classification
 
 | Project | What it does | Stack | Live |
 |---|---|---|---|
+| [cycle-tracker](https://github.com/lakshya701/cycle-tracker) | Private period & cycle tracker. Backtests four prediction methods on the user's own history and uses the most accurate; calendar, insights charts, reminders, CSV export, installable on phones | Java 21, Spring Boot, Spring Security, PostgreSQL, Docker | [▶ Demo](https://cycle-tracker-demo.onrender.com) |
 | [spam-detector](https://github.com/lakshya701/spam-detector) | SMS spam classifier on 5,000+ real messages; Linear SVM reaches 98% accuracy / 0.92 F1. The trained model runs in the browser and shows which words drove each prediction | Python, scikit-learn, JavaScript | [▶ Demo](https://lakshya701.github.io/spam-detector/) |
 | [FUTURE_DS_01](https://github.com/lakshya701/FUTURE_DS_01) | Sales performance analytics on 4 years of superstore data ($14.9M revenue), finding which categories and regions lose money | Python, pandas, Chart.js | [📊 Dashboard](https://lakshya701.github.io/FUTURE_DS_01/dashboard.html) |
 | [flyrank-ml-internship](https://github.com/lakshya701/flyrank-ml-internship) | ML internship work on Google search ranking & discoverability using real (anonymized) search data | Python, DuckDB, Jupyter | |
@@ -17,12 +18,16 @@ I'm interested in **machine learning and data science**: building classification
 
 ### 🛠️ Tools I use
 
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ### 🌱 Currently
